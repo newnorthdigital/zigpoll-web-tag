@@ -1,5 +1,5 @@
 homepage: "https://www.zigpoll.com"
 documentation: "https://github.com/newnorthdigital/zigpoll-web-tag/blob/main/README.md"
 versions:
-  - sha: e68f2234efc4b5105e497599baa050fffcbade4d
+  - sha: d6f445bbdfe2070bb30541882688a5c7de407f8d
     changeNotes: "Initial release - Zigpoll survey widget script loader."
